@@ -1,1 +1,14 @@
-
+<bug_report>
+  <id>1</id>
+  <summary>Squaring and Square root extraction operations don't appear on the application keyboard when switching to the Scientific mode</summary>
+  <description>Requirement: 9</description>
+  <AR>Application window stretches to the right side</AR>
+  <ER>Squaring and Square root extraction operations appear on the application keyboard</ER>
+  <STR>
+    <s1> 1. Click on the button "Выбор"</s1>
+    <s2> 2. Click on the button "Инженерный"</s2>
+  </STR>
+  <Severity>Major</Severity>
+  <priority>ASAP</priority>
+  <status>new</status>
+</bug_report>
